@@ -18,7 +18,7 @@ public class InstanceOf {
             } else if (o instanceof Boolean) {
                 System.out.println("It's a boolean");
             }
-            else {
+            else { // @KetanKBaboo putting specific condition might be helpful 
                 System.out.println("It's a float");
             }
         }
